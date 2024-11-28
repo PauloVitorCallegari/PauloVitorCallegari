@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/PauloVitorCallegari/PauloVitorCallegari/blob/output/github-contribution-grid-snake.svg)
 
 # Hello, my name's Paulo Vitor, i'm a undergrad student of Information Systems at IFES.
 
